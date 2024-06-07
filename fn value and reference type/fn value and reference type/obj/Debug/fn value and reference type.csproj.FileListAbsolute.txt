@@ -1,0 +1,7 @@
+E:\c# repository\fn value and reference type\fn value and reference type\bin\Debug\fn value and reference type.exe.config
+E:\c# repository\fn value and reference type\fn value and reference type\bin\Debug\fn value and reference type.exe
+E:\c# repository\fn value and reference type\fn value and reference type\bin\Debug\fn value and reference type.pdb
+E:\c# repository\fn value and reference type\fn value and reference type\obj\Debug\fn value and reference type.csproj.AssemblyReference.cache
+E:\c# repository\fn value and reference type\fn value and reference type\obj\Debug\fn value and reference type.csproj.CoreCompileInputs.cache
+E:\c# repository\fn value and reference type\fn value and reference type\obj\Debug\fn value and reference type.exe
+E:\c# repository\fn value and reference type\fn value and reference type\obj\Debug\fn value and reference type.pdb
