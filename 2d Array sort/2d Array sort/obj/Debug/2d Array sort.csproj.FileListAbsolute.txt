@@ -1,0 +1,7 @@
+E:\c# repository\2d Array sort\2d Array sort\bin\Debug\2d Array sort.exe.config
+E:\c# repository\2d Array sort\2d Array sort\bin\Debug\2d Array sort.exe
+E:\c# repository\2d Array sort\2d Array sort\bin\Debug\2d Array sort.pdb
+E:\c# repository\2d Array sort\2d Array sort\obj\Debug\2d Array sort.csproj.AssemblyReference.cache
+E:\c# repository\2d Array sort\2d Array sort\obj\Debug\2d Array sort.csproj.CoreCompileInputs.cache
+E:\c# repository\2d Array sort\2d Array sort\obj\Debug\2d Array sort.exe
+E:\c# repository\2d Array sort\2d Array sort\obj\Debug\2d Array sort.pdb
