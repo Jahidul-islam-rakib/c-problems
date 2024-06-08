@@ -1,0 +1,7 @@
+E:\c# repository\twoDArray\twoDArray\bin\Debug\twoDArray.exe.config
+E:\c# repository\twoDArray\twoDArray\bin\Debug\twoDArray.exe
+E:\c# repository\twoDArray\twoDArray\bin\Debug\twoDArray.pdb
+E:\c# repository\twoDArray\twoDArray\obj\Debug\twoDArray.csproj.AssemblyReference.cache
+E:\c# repository\twoDArray\twoDArray\obj\Debug\twoDArray.csproj.CoreCompileInputs.cache
+E:\c# repository\twoDArray\twoDArray\obj\Debug\twoDArray.exe
+E:\c# repository\twoDArray\twoDArray\obj\Debug\twoDArray.pdb
