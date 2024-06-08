@@ -1,0 +1,7 @@
+E:\c# repository\JaggedArrayPractice\JaggedArrayPractice\bin\Debug\JaggedArrayPractice.exe.config
+E:\c# repository\JaggedArrayPractice\JaggedArrayPractice\bin\Debug\JaggedArrayPractice.exe
+E:\c# repository\JaggedArrayPractice\JaggedArrayPractice\bin\Debug\JaggedArrayPractice.pdb
+E:\c# repository\JaggedArrayPractice\JaggedArrayPractice\obj\Debug\JaggedArrayPractice.csproj.AssemblyReference.cache
+E:\c# repository\JaggedArrayPractice\JaggedArrayPractice\obj\Debug\JaggedArrayPractice.csproj.CoreCompileInputs.cache
+E:\c# repository\JaggedArrayPractice\JaggedArrayPractice\obj\Debug\JaggedArrayPractice.exe
+E:\c# repository\JaggedArrayPractice\JaggedArrayPractice\obj\Debug\JaggedArrayPractice.pdb
