@@ -1,0 +1,14 @@
+E:\c# repository\monthShowUsingEnum\monthShowUsingEnum\bin\Debug\net8.0\monthShowUsingEnum.exe
+E:\c# repository\monthShowUsingEnum\monthShowUsingEnum\bin\Debug\net8.0\monthShowUsingEnum.deps.json
+E:\c# repository\monthShowUsingEnum\monthShowUsingEnum\bin\Debug\net8.0\monthShowUsingEnum.runtimeconfig.json
+E:\c# repository\monthShowUsingEnum\monthShowUsingEnum\bin\Debug\net8.0\monthShowUsingEnum.dll
+E:\c# repository\monthShowUsingEnum\monthShowUsingEnum\bin\Debug\net8.0\monthShowUsingEnum.pdb
+E:\c# repository\monthShowUsingEnum\monthShowUsingEnum\obj\Debug\net8.0\monthShowUsingEnum.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# repository\monthShowUsingEnum\monthShowUsingEnum\obj\Debug\net8.0\monthShowUsingEnum.AssemblyInfoInputs.cache
+E:\c# repository\monthShowUsingEnum\monthShowUsingEnum\obj\Debug\net8.0\monthShowUsingEnum.AssemblyInfo.cs
+E:\c# repository\monthShowUsingEnum\monthShowUsingEnum\obj\Debug\net8.0\monthShowUsingEnum.csproj.CoreCompileInputs.cache
+E:\c# repository\monthShowUsingEnum\monthShowUsingEnum\obj\Debug\net8.0\monthShowUsingEnum.dll
+E:\c# repository\monthShowUsingEnum\monthShowUsingEnum\obj\Debug\net8.0\refint\monthShowUsingEnum.dll
+E:\c# repository\monthShowUsingEnum\monthShowUsingEnum\obj\Debug\net8.0\monthShowUsingEnum.pdb
+E:\c# repository\monthShowUsingEnum\monthShowUsingEnum\obj\Debug\net8.0\monthShowUsingEnum.genruntimeconfig.cache
+E:\c# repository\monthShowUsingEnum\monthShowUsingEnum\obj\Debug\net8.0\ref\monthShowUsingEnum.dll
